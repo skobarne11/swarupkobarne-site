@@ -1,7 +1,4 @@
 # This is done by swarup
-I am learning throuh the tanay pratap in neog camp.
-I am goin to become web developer after the ggraduation complites.
-I Know the
-1) HTML
-2) CSS
-3) javascript
+I am learning through the tanay pratap in neog camp.
+I am going to become web developer after completing graduation.
+I Know the1) HTML5 2) CSS3 3) javascript
